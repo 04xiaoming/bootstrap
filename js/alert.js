@@ -12,6 +12,7 @@
 
   // ALERT CLASS DEFINITION
   // ======================
+  // 提示
 
   var dismiss = '[data-dismiss="alert"]'
   var Alert   = function (el) {

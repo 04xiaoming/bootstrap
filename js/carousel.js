@@ -12,6 +12,7 @@
 
   // CAROUSEL CLASS DEFINITION
   // =========================
+  // 测试
 
   var Carousel = function (element, options) {
     this.$element    = $(element)
