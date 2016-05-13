@@ -17,6 +17,7 @@
     this.$element  = $(element)
     this.options   = $.extend({}, Button.DEFAULTS, options)
     this.isLoading = false
+    this.isLoading = false/*测试用一下*/
   }
 
   Button.VERSION  = '3.3.5'
